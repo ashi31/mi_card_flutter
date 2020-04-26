@@ -57,7 +57,7 @@ class MyHomePage extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '7980773591',
+                    '+91 1234567890',
                     style: TextStyle(
                       fontSize: 20.0,
                       color: Colors.teal[900],
@@ -76,7 +76,7 @@ class MyHomePage extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'riyaashita@gmail.com',
+                    'ashita.gupta@gmail.com',
                     style: TextStyle(
                       fontSize: 20.0,
                       color: Colors.teal[900],
